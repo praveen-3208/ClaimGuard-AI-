@@ -98,8 +98,9 @@ Potentially risky activity is flagged for investigation, and uncertain cases are
 
 ## Demo Video
 
-Demo Video: [PASTE YOUR DEMO VIDEO LINK HERE]
+Demo Video:https://drive.google.com/file/d/13hgSY6FKzO4zwf4B7j4AEvF5-NMYfz1g/view?usp=drivesdk 
 
 ## GitHub Repository
 
-Repository: [PASTE YOUR GITHUB REPOSITORY LINK HERE]
+Repository: https://github.com/praveen-3208/ClaimGuard-AI-/edit/main/
+

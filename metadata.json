@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix ClaimGuard AI — Motor Insurance Claims Evidence Review Assistant",
+  "description": "Evidence-grounded motor insurance claims review assistant for claims investigators. Cross-verifies claim forms, repair estimates, FIRs, and customer narratives against policy clauses with contradiction detection and escalation workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
